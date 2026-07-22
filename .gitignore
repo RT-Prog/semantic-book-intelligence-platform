@@ -216,3 +216,35 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local datasets
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Open Library API cache
+data/raw/openlibrary/api_cache/*
+
+# Trained models and large artifacts
+models/*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Environment and editor files
+.env
+.venv/
+.vscode/
+
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+
