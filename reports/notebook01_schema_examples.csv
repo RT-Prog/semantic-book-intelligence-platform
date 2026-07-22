@@ -1,0 +1,37 @@
+dataset,field,dtype,python_type,example
+books,isbn,str,str,'0312853122'
+books,text_reviews_count,str,str,'1'
+books,series,object,list,[]
+books,country_code,str,str,'US'
+books,language_code,str,str,''
+books,popular_shelves,object,list,"[{'count': '3', 'name': 'to-read'}, {'count': '1', 'name': 'p'}, {'count': '1', 'name': 'collection'}, {'count': '1', 'name': 'w-c-fields'}, {'count': '1', 'name': 'biography'}]"
+books,asin,str,str,''
+books,is_ebook,str,str,'false'
+books,average_rating,str,str,'4.00'
+books,kindle_asin,str,str,''
+books,similar_books,object,list,[]
+books,description,str,str,''
+books,format,str,str,'Paperback'
+books,link,str,str,'https://www.goodreads.com/book/show/5333265-w-c-fields'
+books,authors,object,list,"[{'author_id': '604031', 'role': ''}]"
+books,publisher,str,str,"""St. Martin's Press"""
+books,num_pages,str,str,'256'
+books,publication_day,str,str,'1'
+books,isbn13,str,str,'9780312853129'
+books,publication_month,str,str,'9'
+books,edition_information,str,str,''
+books,publication_year,str,str,'1984'
+books,url,str,str,'https://www.goodreads.com/book/show/5333265-w-c-fields'
+books,image_url,str,str,'https://images.gr-assets.com/books/1310220028m/5333265.jpg'
+books,book_id,str,str,'5333265'
+books,ratings_count,str,str,'3'
+books,work_id,str,str,'5400751'
+books,title,str,str,'W.C. Fields: A Life on Film'
+books,title_without_series,str,str,'W.C. Fields: A Life on Film'
+authors,average_rating,str,str,'3.98'
+authors,author_id,str,str,'604031'
+authors,text_reviews_count,str,str,'7'
+authors,name,str,str,'Ronald J. Fields'
+authors,ratings_count,str,str,'49'
+genres,book_id,str,str,'5333265'
+genres,genres,object,dict,"{'history, historical fiction, biography': 1}"

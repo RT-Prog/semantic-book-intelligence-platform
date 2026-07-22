@@ -1,0 +1,9 @@
+check,observed,interpretation,status
+Book ID uniqueness,True,Expected unique in metadata,PASS
+Average rating range,100.00%,Non-missing values should be 0–5,PASS
+Publication year plausibility,99.79%,Most populated years should be plausible,PASS
+Zero page-count share,0.32%,Zero may mean unknown or non-print format,INFO
+Unparsed ebook flag share,0.00%,Should be near zero if mapping captured all values,PASS
+Description coverage,82.44%,Determines NLP-ready subset,INFO
+Author reference coverage,100.00%,Author references should resolve,PASS
+Genre record coverage,100.00%,Genres are fuzzy and may be incomplete,INFO

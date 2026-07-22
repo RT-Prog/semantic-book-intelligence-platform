@@ -1,0 +1,17 @@
+dataset,field,dtype,python_type,example,working_meaning
+books,isbn,str,str,'0312853122',ISBN-10 where available.
+books,text_reviews_count,str,str,'1',Number of written reviews associated with the record.
+books,language_code,str,str,'',Goodreads language code; may require normalization.
+books,popular_shelves,object,list,"[{'count': '3', 'name': 'to-read'}, {'count': '1', 'name': 'p'}, {'count': '1', 'name': 'collection'}, {'count': '1', 'name': 'w-c-fields'}, {'count': '1', 'name': 'biography'}]",Nested user-shelf signals.
+books,average_rating,str,str,'4.00',Average Goodreads rating.
+books,similar_books,object,list,[],Goodreads-provided related book identifiers.
+books,description,str,str,'',Book description or synopsis for later text analysis.
+books,authors,object,list,"[{'author_id': '604031', 'role': ''}]",Nested references to one or more Goodreads authors.
+books,publisher,str,str,"""St. Martin's Press""",Publisher name recorded by Goodreads.
+books,num_pages,str,str,'256',Reported page count.
+books,isbn13,str,str,'9780312853129',ISBN-13 where available; candidate Open Library join key.
+books,publication_year,str,str,'1984',Reported publication year.
+books,book_id,str,str,'5333265',Goodreads identifier for a specific book or edition record.
+books,ratings_count,str,str,'3',Number of ratings associated with the record.
+books,work_id,str,str,'5400751',Goodreads identifier intended to group editions of the same work.
+books,title,str,str,'W.C. Fields: A Life on Film',Book title recorded by Goodreads.

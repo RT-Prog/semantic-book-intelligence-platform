@@ -1,0 +1,7 @@
+field,non_null_rows,coverage_pct,unique_values,duplicate_values,unique_within_non_null
+book_id,5000,1.0,5000,0,True
+work_id,5000,1.0,4982,18,False
+isbn,2965,0.593,2965,0,True
+isbn13,3354,0.6708,3354,0,True
+asin,992,0.1984,992,0,True
+kindle_asin,2147,0.4294,2145,2,False
