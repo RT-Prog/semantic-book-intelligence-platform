@@ -24,7 +24,7 @@ Finally, this phase established the statistical foundation for feature engineeri
 
 ************************************************************
 
-## Phase C — Feature Engineering and Initial Model Evaluation
+## Phase C — Feature Engineering and Initial Model Evaluation (Notebook 03 - 03_building_better_representations_iteration2.ipynb)
 
 This notebook transitioned the project from exploratory data analysis to the construction of a reusable machine learning feature set. Rather than relying solely on the raw Goodreads metadata, a structured feature engineering pipeline was developed to create more informative numerical representations of books.
 
