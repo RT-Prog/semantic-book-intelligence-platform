@@ -1,0 +1,5 @@
+model,feature_set,feature_count,best_cv_rmse,test_rmse,test_mae,test_r2,best_parameters
+Random Forest,Baseline,16,0.4823584895038843,0.515739441481538,0.35812879919271384,0.1486329545996602,"{'model__max_depth': 6, 'model__max_features': 0.75, 'model__min_samples_leaf': 1, 'model__n_estimators': 500}"
+Random Forest,Engineered,43,0.48162016076639586,0.5162984580431798,0.3536085923560403,0.14678633914820705,"{'model__max_depth': 12, 'model__max_features': 0.75, 'model__min_samples_leaf': 1, 'model__n_estimators': 200}"
+Ridge,Engineered,43,0.5280110141339225,0.5486803998753448,0.3748640714398454,0.03640389178673642,"{'model__alpha': 100.0, 'model__fit_intercept': True}"
+Ridge,Baseline,16,0.5278649088306534,0.5536851135151711,0.37599251723084914,0.018745099604326465,"{'model__alpha': 100.0, 'model__fit_intercept': True}"
