@@ -1,0 +1,12 @@
+feature,family,dtype,missing_count,missing_rate,unique_values
+text_word_count,Lexical,float64,0,0.0,401.0
+text_unique_word_count,Lexical,float64,0,0.0,262.0
+text_sentence_count,Lexical,float64,0,0.0,46.0
+text_average_words_per_sentence,Lexical,float64,0,0.0,1190.0
+text_average_word_length,Lexical,float64,0,0.0,2955.0
+text_lexical_diversity,Lexical,float64,0,0.0,1975.0
+text_flesch_reading_ease,Lexical,float64,0,0.0,3342.0
+text_uppercase_ratio,Lexical,float64,0,0.0,2816.0
+word_tfidf,Sparse semantic representation,float32 sparse matrix,0,0.0,
+character_tfidf,Sparse semantic representation,float32 sparse matrix,0,0.0,
+lsa_100,Dense semantic representation,float32 dense matrix,0,0.0,

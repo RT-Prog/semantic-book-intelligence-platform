@@ -1,0 +1,26 @@
+anchor_genre,query_title,query_genres,neighbor_rank,neighbor_title,neighbor_genres,cosine_similarity
+fiction,Midnight Nation,"fiction | fantasy, paranormal | comics, graphic",1,The Stories: Five Years of Original Fiction on Tor.com,"fiction | history, historical fiction, biography | fantasy, paranormal",0.47552073
+fiction,Midnight Nation,"fiction | fantasy, paranormal | comics, graphic",2,"Shards of Hope (Psy-Changeling, #14)","fiction | romance | fantasy, paranormal | mystery, thriller, crime",0.46149087
+fiction,Midnight Nation,"fiction | fantasy, paranormal | comics, graphic",3,Dark Fragments,"fiction | mystery, thriller, crime",0.44953024
+fiction,Midnight Nation,"fiction | fantasy, paranormal | comics, graphic",4,Country of Unknown Origin,fiction,0.44742024
+fiction,Midnight Nation,"fiction | fantasy, paranormal | comics, graphic",5,Saving Alice,"fiction | fantasy, paranormal",0.4349439
+non-fiction,The Book of Dragons & Other Mythical Beasts,"fiction | non-fiction | fantasy, paranormal | young-adult | children | poetry",1,King Solomon's Ring: New Light on Animals' Ways,"fiction | history, historical fiction, biography | non-fiction",0.46817338
+non-fiction,The Book of Dragons & Other Mythical Beasts,"fiction | non-fiction | fantasy, paranormal | young-adult | children | poetry",2,Myths & Legends,"history, historical fiction, biography | non-fiction | fantasy, paranormal",0.45833957
+non-fiction,The Book of Dragons & Other Mythical Beasts,"fiction | non-fiction | fantasy, paranormal | young-adult | children | poetry",3,Imaginary Animals,fiction | poetry,0.45435065
+non-fiction,The Book of Dragons & Other Mythical Beasts,"fiction | non-fiction | fantasy, paranormal | young-adult | children | poetry",4,Lockjaw and the Pet Avengers,"fiction | fantasy, paranormal | young-adult | children | comics, graphic",0.40720308
+non-fiction,The Book of Dragons & Other Mythical Beasts,"fiction | non-fiction | fantasy, paranormal | young-adult | children | poetry",5,ANIMALS: 30 Fascinating Bedtime Stories About Animals - Children's Book With Pictures For Kids Ages 4-8,children,0.40556282
+romance,Garnet: A Season In Hell,fiction | romance,1,"The Naked Truth Series, Books 1 & 2: Accidentally Hooked & Accidentally Still Married",romance,0.49506903
+romance,Garnet: A Season In Hell,fiction | romance,2,Rediscovery,fiction | romance,0.49490404
+romance,Garnet: A Season In Hell,fiction | romance,3,Sarasota Sin Series,fiction | romance,0.47691703
+romance,Garnet: A Season In Hell,fiction | romance,4,"French Roast (Dare Valley, #2)",fiction | romance,0.44072008
+romance,Garnet: A Season In Hell,fiction | romance,5,"5th Pentagram (Darc Murders, #3)","fiction | mystery, thriller, crime",0.44070035
+"fantasy, paranormal",Heretic,"fiction | history, historical fiction, biography | romance | fantasy, paranormal",1,The Return of Sir Percival: Guinevere's Prayer,"fiction | history, historical fiction, biography | romance | fantasy, paranormal",0.5950803
+"fantasy, paranormal",Heretic,"fiction | history, historical fiction, biography | romance | fantasy, paranormal",2,End of the Century,"fiction | history, historical fiction, biography | fantasy, paranormal | young-adult",0.5389403
+"fantasy, paranormal",Heretic,"fiction | history, historical fiction, biography | romance | fantasy, paranormal",3,"Sabine (And the Beast, #1)","fiction | history, historical fiction, biography | romance | fantasy, paranormal",0.53228366
+"fantasy, paranormal",Heretic,"fiction | history, historical fiction, biography | romance | fantasy, paranormal",4,Captive Rose,"fiction | history, historical fiction, biography | romance",0.5043143
+"fantasy, paranormal",Heretic,"fiction | history, historical fiction, biography | romance | fantasy, paranormal",5,The Bronze Bow,"fiction | history, historical fiction, biography | young-adult | children",0.4886161
+poetry,Mule,poetry,1,The Cracks Between What We are and What We are Supposed to Be: Essays and Interviews,non-fiction | poetry,0.5140377
+poetry,Mule,poetry,2,Wonderful You: An Adoption Story,fiction | children | poetry,0.49226248
+poetry,Mule,poetry,3,Cost,fiction,0.48685902
+poetry,Mule,poetry,4,Wild Tongue,poetry,0.4849553
+poetry,Mule,poetry,5,A Separate Star: A Tribute to Rudyard Kipling,"fiction | fantasy, paranormal",0.46932673

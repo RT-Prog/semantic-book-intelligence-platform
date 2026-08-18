@@ -1,0 +1,3 @@
+embedding_name,model_id,revision,rows,embedding_dimension,max_sequence_length,multi_chunk_rate,total_chunks,maximum_raw_tokens,generation_seconds,cache_status,cache_size_mb,device
+MiniLM English,sentence-transformers/all-MiniLM-L6-v2,1110a243fdf4706b3f48f1d95db1a4f5529b4d41,21699,384,256,0.2761417576846859,28686,3066,47.92032229248434,generated,47.11028575897217,mps
+Multilingual E5 Small,intfloat/multilingual-e5-small,fd1525a9fd15316a2d503bf26ab031a61d056e98,21699,384,512,0.03391861376100281,22499,3259,87.64113783277571,generated,47.10416316986084,mps

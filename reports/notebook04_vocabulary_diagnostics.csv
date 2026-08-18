@@ -1,0 +1,3 @@
+representation,training_books,features,nonzero_values,density
+Word TF-IDF,2446,25213,311051,0.00504371601056302
+Character TF-IDF,2446,30000,2488053,0.03390641864268193

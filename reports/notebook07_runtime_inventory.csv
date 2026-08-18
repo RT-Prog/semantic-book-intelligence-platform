@@ -1,0 +1,4 @@
+stage,seconds,device,detail
+Fine-tuning smoke test,5.4914066242054105,mps,12 optimizer steps
+Development candidate evaluation,1052.505858875811,mps,3 outer folds
+Final fitting and closing evaluation,84.45159062556922,mps,Classical + E5 fusion

@@ -1,0 +1,8 @@
+metric,value
+source_books,5000.0
+books_with_descriptions,4122.0
+eligible_labeled_books,3497.0
+eligible_work_groups,3480.0
+included_genres,10.0
+median_description_words,131.0
+median_labels_per_book,2.667715184443809

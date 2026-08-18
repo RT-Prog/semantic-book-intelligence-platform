@@ -1,0 +1,2 @@
+embedding,model,threshold_policy,threshold_tuning_seconds,final_fit_seconds,macro_f1,micro_f1,weighted_f1,subset_accuracy,hamming_loss,macro_average_precision
+MiniLM English,Logistic Regression,Training-OOF tuned,2.537742041051388,1.8537590000778437,0.5553131340340285,0.6498150431565968,0.6505591844110931,0.11216730038022814,0.21596958174904943,0.6002650157749158

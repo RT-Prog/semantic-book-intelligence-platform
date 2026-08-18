@@ -188,10 +188,7 @@ cython_debug/
 #   option (not recommended) you can uncomment the following to ignore the entire idea folder.
 # .idea/
 
-# Abstra
-#   Abstra is an AI-powered process automation framework.
-#   Ignore directories containing user credentials, local state, and settings.
-#   Learn more at https://abstra.io/docs
+# Abstra local state and settings
 .abstra/
 
 # Visual Studio Code
@@ -247,4 +244,3 @@ __pycache__/
 !data/interim/.gitkeep
 !data/processed/.gitkeep
 !models/.gitkeep
-

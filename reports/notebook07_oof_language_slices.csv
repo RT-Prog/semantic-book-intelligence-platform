@@ -1,0 +1,16 @@
+candidate,language_group,books,supported_genres,macro_f1
+Classical TF-IDF,English,7833,10,0.669717469266009
+Frozen E5,English,7833,10,0.6656781181878637
+Classical + E5 fusion,English,7833,10,0.6961042723218664
+Fine-tuned E5 | Weighted BCE,English,7833,10,0.6424534975383854
+Fine-tuned E5 | Asymmetric loss,English,7833,10,0.6468251102854681
+Classical TF-IDF,Non-English,3168,10,0.5120528036940327
+Frozen E5,Non-English,3168,10,0.5856028311208563
+Classical + E5 fusion,Non-English,3168,10,0.5773809572390407
+Fine-tuned E5 | Weighted BCE,Non-English,3168,10,0.5619229789990929
+Fine-tuned E5 | Asymmetric loss,Non-English,3168,10,0.5749258387285561
+Classical TF-IDF,Unknown,7461,10,0.6563096847939898
+Frozen E5,Unknown,7461,10,0.6523728733840644
+Classical + E5 fusion,Unknown,7461,10,0.6784955828196997
+Fine-tuned E5 | Weighted BCE,Unknown,7461,10,0.633328577902465
+Fine-tuned E5 | Asymmetric loss,Unknown,7461,10,0.6447318853361554

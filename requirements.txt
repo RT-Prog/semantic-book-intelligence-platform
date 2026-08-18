@@ -1,8 +1,13 @@
 numpy
 pandas
 matplotlib
+seaborn
+plotly
 scikit-learn
+torch
+transformers
+sentence-transformers
+huggingface-hub
 requests
 pyarrow
 pytest
-

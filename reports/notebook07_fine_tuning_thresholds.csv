@@ -1,0 +1,61 @@
+candidate,outer_fold,genre,threshold,threshold_policy,calibration_gain
+Fine-tuned E5 | Weighted BCE,1,fiction,0.01740219,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,"history, historical fiction, biography",0.063289836,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,romance,0.27738774,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,non-fiction,0.71710485,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,"fantasy, paranormal",0.3931672,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,"mystery, thriller, crime",0.3817234,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,young-adult,0.21160032,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,children,0.8672992,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,"comics, graphic",0.35005224,Tuned,0.06026379548443661
+Fine-tuned E5 | Weighted BCE,1,poetry,0.5975915,Tuned,0.06026379548443661
+Fine-tuned E5 | Asymmetric loss,1,fiction,0.5930384,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,"history, historical fiction, biography",0.45705226,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,romance,0.41224006,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,non-fiction,0.60599256,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,"fantasy, paranormal",0.4976733,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,"mystery, thriller, crime",0.40735602,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,young-adult,0.34080672,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,children,0.35432574,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,"comics, graphic",-0.03321028,Tuned,0.07315797999627904
+Fine-tuned E5 | Asymmetric loss,1,poetry,-0.04982475,Tuned,0.07315797999627904
+Fine-tuned E5 | Weighted BCE,2,fiction,0.0,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,"history, historical fiction, biography",0.14110075,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,romance,0.31580833,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,non-fiction,0.5026082,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,"fantasy, paranormal",0.3773419,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,"mystery, thriller, crime",0.5848567,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,young-adult,0.25315842,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,children,0.54261905,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,"comics, graphic",0.69305664,Tuned,0.06824486819918485
+Fine-tuned E5 | Weighted BCE,2,poetry,0.9775622,Tuned,0.06824486819918485
+Fine-tuned E5 | Asymmetric loss,2,fiction,0.6066528,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,"history, historical fiction, biography",0.31629342,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,romance,0.57957274,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,non-fiction,0.38218692,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,"fantasy, paranormal",0.4858942,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,"mystery, thriller, crime",0.5734091,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,young-adult,0.30561623,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,children,0.26444846,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,"comics, graphic",0.14830206,Tuned,0.0737244577250693
+Fine-tuned E5 | Asymmetric loss,2,poetry,0.029459681,Tuned,0.0737244577250693
+Fine-tuned E5 | Weighted BCE,3,fiction,-0.044180147,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,"history, historical fiction, biography",0.15923342,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,romance,0.4670184,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,non-fiction,0.45601723,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,"fantasy, paranormal",0.2846672,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,"mystery, thriller, crime",0.4878436,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,young-adult,0.36096254,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,children,0.7437536,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,"comics, graphic",0.31953812,Tuned,0.07294222295310704
+Fine-tuned E5 | Weighted BCE,3,poetry,1.2508748,Tuned,0.07294222295310704
+Fine-tuned E5 | Asymmetric loss,3,fiction,0.39113623,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,"history, historical fiction, biography",0.33697107,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,romance,0.50934726,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,non-fiction,0.5274983,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,"fantasy, paranormal",0.6022951,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,"mystery, thriller, crime",0.51377636,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,young-adult,0.25398013,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,children,0.20365132,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,"comics, graphic",0.0014044028,Tuned,0.057847422124088776
+Fine-tuned E5 | Asymmetric loss,3,poetry,0.09815369,Tuned,0.057847422124088776

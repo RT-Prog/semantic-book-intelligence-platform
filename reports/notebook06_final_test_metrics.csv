@@ -1,0 +1,2 @@
+candidate,threshold_policy,best_parameters,training_and_calibration_seconds,macro_f1,micro_f1,weighted_f1,subset_accuracy,hamming_loss,macro_average_precision
+Classical Word + Character TF-IDF,Default,"{""classifier__estimator__C"": 0.1}",99.61183116585016,0.651368405265124,0.7151528651779251,0.7181157741344507,0.20451034908866234,0.15801668211306766,0.7052270940509591

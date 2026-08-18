@@ -1,0 +1,2 @@
+representation,model,macro_f1,micro_f1,weighted_f1,subset_accuracy,hamming_loss,macro_average_precision
+Word + Character TF-IDF,Linear SVM,0.5681325314521506,0.6773855295351275,0.6695371645289464,0.17490494296577946,0.17547528517110267,0.6419264101906138

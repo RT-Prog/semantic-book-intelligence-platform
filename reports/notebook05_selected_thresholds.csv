@@ -1,0 +1,11 @@
+genre,decision_threshold
+fiction,-1.8693358
+"history, historical fiction, biography",-0.17507488
+romance,-0.30506232
+non-fiction,0.84375286
+"fantasy, paranormal",-0.3097591
+"mystery, thriller, crime",-0.0974557
+young-adult,0.36554566
+children,1.4541959
+"comics, graphic",0.0
+poetry,2.6587152
